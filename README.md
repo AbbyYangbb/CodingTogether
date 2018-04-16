@@ -1,7 +1,7 @@
 # CodingTogether
 
-Hi! Thank you for visiting this page!
+Hi! Thank you for visiting!
 
-You can find the demo of my web project at: http://www.cooperating.website/
+You can find the demo of our web project at: http://www.cooperating.website/
 
-Happy Code! Happy Life!
+Happy Coding! Happy Life!
