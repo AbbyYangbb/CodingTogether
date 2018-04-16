@@ -6,8 +6,10 @@
 /tmp
 /out-tsc
 
+
+
 /oj-client
-/oj-server
+
 /public
 oj-client/dist/
 
